@@ -1,0 +1,1 @@
+Oyun Swift dili kullanarak yazığım ilk projedir. Odaklanmaya dayalı bir oyundur. Renk ve yazı uyuşursa true uyuşmaz ise false tuşuna basılmalıdır.<img width="328" alt="Ekran Resmi 2024-10-26 05 15 24" src="https://github.com/user-attachments/assets/bde58c5a-d1ce-4607-80ad-66aec8fec00c">
